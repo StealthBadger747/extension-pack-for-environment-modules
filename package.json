@@ -10,6 +10,7 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "erikparawell.environment-modules-tcl-associator",
+        "bitwisecook.tcl"
     ]
 }
