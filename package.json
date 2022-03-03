@@ -1,0 +1,15 @@
+{
+    "name": "extension-pack-for-environment-modules",
+    "displayName": "Extension Pack for Environment Modules",
+    "description": "A extension pack for Environment Modules which allows vscode to correctly identify module files and allow syntax highlighting.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
