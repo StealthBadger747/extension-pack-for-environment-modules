@@ -9,8 +9,11 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "erikparawell.environment-modules-tcl-associator",
         "bitwisecook.tcl"
-    ]
+    ],
+    "dependencies": {
+        "vsce": "^2.6.7"
+    }
 }
