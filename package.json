@@ -2,7 +2,14 @@
     "name": "extension-pack-for-environment-modules",
     "displayName": "Extension Pack for Environment Modules",
     "description": "A extension pack for Environment Modules which allows vscode to correctly identify module files and allow syntax highlighting.",
-    "version": "0.0.1",
+    "publisher": "ErikParawell",
+    "icon": "icons/modules_red_tcl_tk_small.png",
+    "version": "1.0.0",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/StealthBadger747/extension-pack-for-environment-modules.git"
+      },
     "engines": {
         "vscode": "^1.65.0"
     },
